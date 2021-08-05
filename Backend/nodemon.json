@@ -1,0 +1,7 @@
+{
+    "env": {
+        "DB_USER": "ffun",
+        "DB_PASSWORD": "Ct9jGm8VhUJ8P2Xc",
+        "DB_NAME": "carfetcher"
+    }
+}
